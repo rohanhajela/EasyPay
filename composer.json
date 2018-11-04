@@ -1,0 +1,11 @@
+{
+    "require": {
+        "nexmo/client": "1.0.*@beta",
+        "jenssegers/mongodb": "^3.4"
+    },
+    "config": {
+        "platform": {
+            "ext-mongo": "1.6.16"
+        }
+    }
+}
