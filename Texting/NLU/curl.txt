@@ -1,4 +1,4 @@
-curl --user "apikey:a3jHgMchnTE0W1ZIH3IemDKNUZpuqq6D3_4345HXkLVZ" \   
+curl --user "apikey:a3jHgMchnTE0W1ZIH3IemDKNUZpuqq6D3_4345HXkLVZ" \
   "https://gateway.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2018-03-16" \
   --request POST \
   --header "Content-Type: application/json" \
@@ -31,3 +31,12 @@ curl -X POST \
 -u "apikey:a3jHgMchnTE0W1ZIH3IemDKNUZpuqq6D3_4345HXkLVZ" \
 -d @parameters.json \
 "https://gateway.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2018-03-19"
+
+
+
+
+"curl -X POST \
+-u \"apikey:a3jHgMchnTE0W1ZIH3IemDKNUZpuqq6D3_4345HXkLVZ\" \
+-H \"Content-Type: application/json\" \
+-d @parameters.json \
+\"https://gateway.watsonplatform.net/natural-language-understanding/api/v1/analyze?version=2018-03-19\""
