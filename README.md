@@ -2,7 +2,7 @@
 
 Let's attack this problem: College students have to make many daily transactions with other students and have no organized manner of doing so. This results in unnecessary complications and general inefficiency.
 
-As a solution, we have created a text-based bot that processes individual and group texts to understand user intents to transfer money.
+As a solution, we have created a text-based bot that processes individual and group texts via NLU to understand user intents to transfer money.
 
 ## API - IBM
 
