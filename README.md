@@ -11,7 +11,7 @@ user messages for transaction intent
 * Utilized Knowledge Studio SDK to custom train
 Machine Learning Model to tag entities in texts
 * Used Natural Language Understanding SDK to process
-texts and understand user intent
+texts and understand user intent through classification
 
 ## API - Venmo
 
